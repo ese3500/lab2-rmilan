@@ -1,2 +1,2 @@
 # lab2_morse_skeleton
-Skeleton code that's imported for Lab 2: Morse
+I used 480ms for the upper bound of the dash and as the threshold prior to deciding if there was a space.
